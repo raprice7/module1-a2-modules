@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "customerName": "First Last",
+        "phoneNumber": "4233678891",
+        "address": "123 Happy Place Avenue",
+        "loanAmount": 250000,
+        "interest": 0.0648,
+        "loanTermYears": 30,
+        "loanType": "Mortgage",
+        "description": "customer loan information"
+    }
+]
